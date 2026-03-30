@@ -93,8 +93,8 @@ export function HeroSection() {
             transition={{ delay: 0.4, duration: 0.6 }}
             className="text-4xl md:text-5xl lg:text-6xl font-heading font-bold leading-tight mb-4 text-white"
           >
-            Real Tagline
-            <span className="block text-white">Solution</span>
+            RTS
+            <span className="block text-white">(Real Tagline Solution)</span>
           </motion.h1>
 
           {/* Animated subtitle from slide */}
