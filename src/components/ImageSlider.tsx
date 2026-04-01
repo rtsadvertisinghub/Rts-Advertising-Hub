@@ -18,12 +18,12 @@ import amrooz2 from "@/assets/image gallery/amrooz2.jpeg"
 const slides = [
   {
     image: aviation1,
-    title: "PAF Aviation City Project",
+    title: "503 Aviation Base Workshop",
     description: "Complete branding and signage solutions for Pakistan Air Force",
   },
   {
     image: faisal1,
-    title: "Faisal Base Renovation",
+    title: "Faisal Masjid Renovation",
     description: "Hangar renovation and floor marking for defense sector",
   },
   {
