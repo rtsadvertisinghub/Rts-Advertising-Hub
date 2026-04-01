@@ -7,7 +7,7 @@ import aviation1 from "@/assets/projects/aviation1.jpg";
 import aviation2 from "@/assets/projects/aviation2.jpeg";
 import aviation3 from "@/assets/projects/aviation3.jpeg";
 import aviation4 from "@/assets/projects/aviation4.jpeg";
-import faisal1 from "@/assets/Hero/hero1.jpeg";
+import faisal1 from "@/assets/image gallery/faisal.png";
 import faisal2 from "@/assets/projects/faisal2.jpg";
 import billboard1 from "@/assets/projects/billboard1.jpg";
 import billboard2 from "@/assets/projects/billboard2.jpg";
@@ -23,7 +23,7 @@ const slides = [
   },
   {
     image: faisal1,
-    title: "Faisal Masjid Renovation",
+    title: "Faisal Base Renovation",
     description: "Hangar renovation and floor marking for defense sector",
   },
   {
