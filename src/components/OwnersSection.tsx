@@ -21,7 +21,7 @@ const owners = [
   },
   {
     name: "Riffat Nadeem",
-    role: "Director of Operations",
+    role: "HR (Human Resource)",
     phone: "+92 332 5016109",
     whatsapp: "923325016109",
     image: riffatImg,
