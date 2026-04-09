@@ -23,7 +23,7 @@ const slides = [
   },
   {
     image: faisal1,
-    title: "Faisal Base Renovation",
+    title: "Faisal Masjid ",
     description: "Hangar renovation and floor marking for defense sector",
   },
   {
