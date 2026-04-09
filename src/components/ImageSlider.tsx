@@ -18,7 +18,7 @@ import amrooz2 from "@/assets/image gallery/amrooz2.jpeg"
 const slides = [
   {
     image: aviation1,
-    title: "503 Aviation Base Workshop",
+    title: "Aviation Base Workshop",
     description: "Complete branding and signage solutions for Pakistan Air Force",
   },
   {
