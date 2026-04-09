@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://pr-web-builder.lovable.app/sitemap.xml
+Sitemap: https://www.rtsadvertisinghub.com//sitemap.xml
