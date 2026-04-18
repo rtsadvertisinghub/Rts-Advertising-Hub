@@ -87,7 +87,7 @@ const PriceCalculator = () => {
       <SEOHead
         title="Price Calculator — Signage, Billboard & Print Media Rates | RTS Advertising Hub"
         description="Free online price calculator for signage boards, billboards aur print media. Pakistan mein advertising rates instantly check karein."
-        canonical="https://pr-web-builder.lovable.app/calculator"
+        canonical="https://www.rtsadvertisinghub.com/calculator"
         jsonLd={{
           "@context": "https://schema.org",
           "@type": "WebApplication",
