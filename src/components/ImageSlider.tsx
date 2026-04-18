@@ -4,7 +4,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 import aviation1 from "@/assets/projects/aviation1.jpg";
-import aviation2 from "@/assets/projects/aviation2.jpeg";
+import aviation2 from "@/assets/image gallery/amrooz2.jpeg";
 import aviation3 from "@/assets/projects/aviation3.jpeg";
 import aviation4 from "@/assets/projects/aviation4.jpeg";
 import faisal1 from "@/assets/image gallery/faisal.png";
