@@ -29,7 +29,7 @@ const Services = () => {
       <SEOHead
         title="Our Services — Signage, Billboards, Print Media & Renovation | RTS Advertising Hub"
         description="Trusted indoor/outdoor signage, billboard advertising, print media aur renovation services. Affordable price, high quality. Complete advertising solutions across Pakistan."
-        canonical="https://pr-web-builder.lovable.app/services"
+        canonical="https://www.rtsadvertisinghub.com/services"
       />
       <Header />
       <main>
