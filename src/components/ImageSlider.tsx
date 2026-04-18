@@ -10,7 +10,7 @@ import aviation4 from "@/assets/projects/aviation4.jpeg";
 import faisal1 from "@/assets/image gallery/faisal.png";
 import faisal2 from "@/assets/projects/rbs.jpeg";
 import billboard1 from "@/assets/projects/Billboardrental.jpeg";
-import billboard2 from "@/assets/projects/billboard2.jpg";
+import billboard2 from "@/assets/projects/outdoorcampaigns44.jpeg";
 import amrooz1 from "@/assets/image gallery/newspaper.jpeg"
 import amrooz2 from "@/assets/projects/billboard2.jpg"
 
