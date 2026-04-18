@@ -93,7 +93,7 @@ const PriceCalculator = () => {
           "@type": "WebApplication",
           "name": "RTS Advertising Price Calculator",
           "description": "Instant price estimates for signage, billboard and print media advertising in Pakistan",
-          "url": "https://pr-web-builder.lovable.app/calculator",
+          "url": "https://www.rtsadvertisinghub.com/calculator",
           "applicationCategory": "BusinessApplication",
           "provider": {
             "@type": "LocalBusiness",
