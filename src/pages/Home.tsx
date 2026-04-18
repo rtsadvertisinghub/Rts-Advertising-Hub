@@ -17,7 +17,7 @@ const Home = () => {
       <SEOHead
         title="RTS Advertising Hub — Pakistan's Premier Advertising & Marketing Company"
         description="Professional signage, billboard advertising, renovation works aur print media services. Rawalpindi, Islamabad aur poore Pakistan mein top advertising solutions."
-        canonical="https://pr-web-builder.lovable.app/"
+        canonical="https://www.rtsadvertisinghub.com/"
         jsonLd={{
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
