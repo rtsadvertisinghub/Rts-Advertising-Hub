@@ -19,16 +19,16 @@ const slides = [
   {
     image: aviation1,
     title: "Aviation Base Workshop",
-    description: "Complete branding and signage solutions for Pakistan Air Force",
+    description: "Hangar Renovation i.e Aircraft maintenance working Plate Forms,Portable Workstations,Signage Boards,hangar Floor Marking",
   },
   {
     image: faisal1,
-    title: "Faisal Masjid ",
-    description: "Hangar renovation and floor marking for defense sector",
+    title: "CDA & KORT (Joint Project)-Faisal Masjid  ",
+    description: "Designed and Installed Signage Boards for Disabled Persons,Directional and reflector signboard’s across the Faisal Masjid premises",
   },
   {
     image: billboard1,
-    title: "Billboard Advertising",
+    title: "Billboard Rental & Outdoor Adverting",
     description: "Prime location billboards across major cities",
   },
   {
@@ -38,8 +38,8 @@ const slides = [
   },
   {
     image: faisal2,
-    title: "Interior Branding",
-    description: "Corporate identity and workspace design",
+    title: "RBS-DHA & Capital Smart City",
+    description: "Brandig & Advertising project",
   },
   {
     image: billboard2,
@@ -48,8 +48,8 @@ const slides = [
   },
   {
     image: amrooz1,
-    title: "Amrooz Advertising",
-    description: "Promotional campaigns for major brands",
+    title: "News Paper & Print Media Advertising",
+    description: "Provides newspaper advertisement services",
   },
   {
     image: amrooz2,
