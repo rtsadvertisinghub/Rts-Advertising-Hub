@@ -8,11 +8,11 @@ import aviation2 from "@/assets/image gallery/amrooz2.jpeg";
 import aviation3 from "@/assets/projects/aviation3.jpeg";
 import aviation4 from "@/assets/projects/aviation4.jpeg";
 import faisal1 from "@/assets/image gallery/faisal.png";
-import faisal2 from "@/assets/projects/faisal2.jpg";
+import faisal2 from "@/assets/projects/rbs.jpeg";
 import billboard1 from "@/assets/projects/billboard1.jpg";
 import billboard2 from "@/assets/projects/billboard2.jpg";
-import amrooz1 from "@/assets/image gallery/amrooz1.jpeg"
-import amrooz2 from "@/assets/image gallery/amrooz2.jpeg"
+import amrooz1 from "@/assets/image gallery/newspaper.jpeg"
+import amrooz2 from "@/assets/projects/billboard2.jpg"
 
 
 const slides = [
