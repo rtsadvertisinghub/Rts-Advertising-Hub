@@ -81,7 +81,7 @@ const Blog = () => {
       <SEOHead
         title="Blog — Advertising Insights & Industry Updates | RTS Advertising Hub"
         description="Advertising industry ke latest trends, tips aur project highlights. Billboard, signage, print media aur branding ke expert insights."
-        canonical="https://pr-web-builder.lovable.app/blog"
+        canonical="https://www.rtsadvertisinghub.com/blog"
       />
       <Header />
       <main>
