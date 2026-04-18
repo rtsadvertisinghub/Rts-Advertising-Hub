@@ -34,7 +34,7 @@ const ProjectDetail = () => {
       <SEOHead
         title={`${project.title} — ${project.subtitle} | RTS Advertising Hub`}
         description={project.description}
-        canonical={`https://pr-web-builder.lovable.app/projects/${project.slug}`}
+        canonical={`https://www.rtsadvertisinghub.com/projects/${project.slug}`}
       />
       <Header />
       <main className="py-12 md:py-20">
