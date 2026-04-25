@@ -19,7 +19,7 @@ const footerLinks = {
 };
 
 const socialLinks = [
-  { icon: Facebook, href: "#", label: "Facebook" },
+  { icon: Facebook, href: "https://web.facebook.com/RTS.advertisinghub/?_rdc=1&_rdr#", label: "Facebook" },
   { icon: Instagram, href: "https://www.instagram.com/rtsadvertisinghub.ltd/", label: "Instagram" },
   { icon: Linkedin, href: "https://www.linkedin.com/in/rts-advertising-hub-97169a405/", label: "LinkedIn" },
   { icon: Twitter, href: "#", label: "Twitter" },
