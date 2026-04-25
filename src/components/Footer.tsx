@@ -20,7 +20,7 @@ const footerLinks = {
 
 const socialLinks = [
   { icon: Facebook, href: "#", label: "Facebook" },
-  { icon: Instagram, href: "#", label: "Instagram" },
+  { icon: Instagram, href: "https://www.instagram.com/rtsadvertisinghub.ltd/", label: "Instagram" },
   { icon: Linkedin, href: "#", label: "LinkedIn" },
   { icon: Twitter, href: "#", label: "Twitter" },
 ];
