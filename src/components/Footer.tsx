@@ -109,7 +109,7 @@ export function Footer() {
               <h3 className="font-heading font-bold text-lg">Get In Touch</h3>
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-accent mt-0.5 flex-shrink-0" />
-                <p className="text-white/70">Mehboob Plaza First Floor Near Meezan-Bank, Chakri Road, Rawalpindi</p>
+                <p className="text-white/70">Mehboob Plaza First Floor Near Meezan-Bank, Chakri Road, Rawalpindi, Pakistan</p>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-accent flex-shrink-0" />

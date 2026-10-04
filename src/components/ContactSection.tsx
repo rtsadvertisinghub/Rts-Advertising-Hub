@@ -12,7 +12,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: "Office Address",
-    details: ["Office No. 1, First Floor", "Iqbal Plaza, Chakri Road", "Rawalpindi, Pakistan"],
+    details: ["Mehboob Plaza, First Floor", "Near Meezan-Bank, Chakri Road", "Rawalpindi, Pakistan"],
   },
   {
     icon: Phone,
@@ -224,12 +224,12 @@ export function ContactSection() {
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="RTS Advertising Hub Location"
+                title="RTS Advertising Hub Location - Mehboob Plaza First Floor Near Meezan-Bank, Chakri Road, Rawalpindi"
               />
               <div className="bg-gradient-primary p-5 flex items-center justify-between">
                 <div>
                   <h4 className="font-heading font-bold text-primary-foreground">Visit Our Office</h4>
-                  <p className="text-primary-foreground/80 text-sm">Iqbal Plaza, Chakri Road, Rawalpindi</p>
+                  <p className="text-primary-foreground/80 text-sm">Mehboob Plaza First Floor Near Meezan-Bank, Chakri Road, Rawalpindi</p>
                 </div>
                 <Button variant="accent" size="sm" asChild>
                   <a
