@@ -93,7 +93,7 @@ export function Footer() {
             {/* Map */}
             <div className="rounded-2xl overflow-hidden border border-white/10">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.5!2d73.0479!3d33.5651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDMzJzU0LjQiTiA3M8KwMDInNTIuNCJF!5e0!3m2!1sen!2spk!4v1700000000000"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.5!2d73.0479!3d33.5651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDMzJzU0LjQiTiA3M8KwMDInNTIu[...]
                 width="100%"
                 height="100%"
                 style={{ border: 0, minHeight: "220px" }}
@@ -109,7 +109,7 @@ export function Footer() {
               <h3 className="font-heading font-bold text-lg">Get In Touch</h3>
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-accent mt-0.5 flex-shrink-0" />
-                <p className="text-white/70">Office No. 1, First Floor, Iqbal Plaza, Chakri Road, Rawalpindi, Pakistan</p>
+                <p className="text-white/70">Mehboob Plaza First Floor Near Meezan-Bank, Chakri Road, Rawalpindi</p>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-accent flex-shrink-0" />
@@ -124,7 +124,7 @@ export function Footer() {
                 <a href="mailto:rts.advertisinghub@gmail.com" className="text-white/70 hover:text-accent transition-colors">rts.advertisinghub@gmail.com</a>
               </div>
               <a
-                href="https://maps.google.com/?q=Iqbal+Plaza+Chakri+Road+Rawalpindi"
+                href="https://maps.google.com/?q=Mehboob+Plaza+First+Floor+Near+Meezan-Bank+Chakri+Road+Rawalpindi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 mt-2 px-5 py-2.5 bg-accent text-accent-foreground rounded-xl font-medium hover:opacity-90 transition-opacity"
