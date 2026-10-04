@@ -44,7 +44,7 @@ export function Footer() {
               </div>
             </Link>
             <p className="text-white/70 max-w-md mb-6">
-              Professional advertising and renovation service provider specializing in 
+              Professional advertising and renovation service provider specializing in
               large-scale government, defense, and private sector projects across Pakistan.
             </p>
             <p className="text-accent font-semibold italic">
@@ -100,7 +100,7 @@ export function Footer() {
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="RTS Advertising Hub Location - Iqbal Plaza, Chakri Road, Rawalpindi"
+                title="RTS Advertising Hub Location - Mehboob Plaza First Floor Near Meezan-Bank, Chakri Road, Rawalpindi"
               />
             </div>
 
