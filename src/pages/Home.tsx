@@ -23,7 +23,7 @@ const Home = () => {
           "@type": "LocalBusiness",
           "name": "RTS Advertising and Marketing Hub",
           "description": "Pakistan's Premier Advertising & Marketing Hub",
-          "url": "https://pr-web-builder.lovable.app",
+          "url": "https://www.rtsadvertisinghub.com/",
           "telephone": "+923005382657",
           "email": "rts.advertisinghub@gmail.com",
           "address": {
