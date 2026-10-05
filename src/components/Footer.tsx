@@ -93,13 +93,13 @@ export function Footer() {
             {/* Map */}
             <div className="rounded-2xl overflow-hidden border border-white/10">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.7605254383325!2d73.0167364!3d33.5595978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38df93840d14f3df%3A0xf6e[...]
-                width="100%"
-                height="100%"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53198.39560223395!2d72.99782090001105!3d33.55598156005241!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38df93840d14f3df%3A0xf6e1931f8153621b!2sRTS%20Advertising%20Hub!5e0!3m2!1sen!2s!4v1791187055696!5m2!1sen!2s"
+                width="600"
+                height="450"
                 style={{ border: 0, minHeight: "220px" }}
                 allowFullScreen
                 loading="lazy"
-                referrerPolicy="no-referrer-when-cross-origin"
+                referrerPolicy="strict-origin-when-cross-origin"
                 title="RTS Advertising Hub Location - Mehboob Plaza First Floor, Adjacent to Meezan-Bank, Chakri Road, Rawalpindi"
               />
             </div>
