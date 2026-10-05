@@ -28,7 +28,7 @@ const Home = () => {
           "email": "rts.advertisinghub@gmail.com",
           "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Mehboob Plaza First Floor Near Meezan-Bank, Chakri Road",
+            "streetAddress": "Mehboob Plaza First Floor, Adjacent to Meezan-Bank, Chakri Road, Rawalpindi",
             "addressLocality": "Rawalpindi",
             "addressCountry": "PK"
           },

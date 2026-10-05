@@ -93,14 +93,14 @@ export function Footer() {
             {/* Map */}
             <div className="rounded-2xl overflow-hidden border border-white/10">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.7605254383325!2d73.0167364!3d33.5595978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38df93840d14f3df%3A0xf6e1931f8153621b!2sRTS%20Advertising%20Hub!5e0!3m2!1sen!2s!4v1791183783210!5m2!1sen!2s"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.7605254383325!2d73.0167364!3d33.5595978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38df93840d14f3df%3A0xf6e[...]
                 width="100%"
                 height="100%"
                 style={{ border: 0, minHeight: "220px" }}
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-cross-origin"
-                title="RTS Advertising Hub Location - Mehboob Plaza First Floor Near Meezan-Bank, Chakri Road, Rawalpindi"
+                title="RTS Advertising Hub Location - Mehboob Plaza First Floor, Adjacent to Meezan-Bank, Chakri Road, Rawalpindi"
               />
             </div>
 
@@ -109,7 +109,7 @@ export function Footer() {
               <h3 className="font-heading font-bold text-lg">Get In Touch</h3>
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-accent mt-0.5 flex-shrink-0" />
-                <p className="text-white/70">Mehboob Plaza First Floor Near Meezan-Bank, Chakri Road, Rawalpindi, Pakistan</p>
+                <p className="text-white/70">Mehboob Plaza First Floor, Adjacent to Meezan-Bank, Chakri Road, Rawalpindi</p>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-accent flex-shrink-0" />
@@ -124,7 +124,7 @@ export function Footer() {
                 <a href="mailto:rts.advertisinghub@gmail.com" className="text-white/70 hover:text-accent transition-colors">rts.advertisinghub@gmail.com</a>
               </div>
               <a
-                href="https://maps.google.com/?q=Mehboob+Plaza+First+Floor+Near+Meezan-Bank+Chakri+Road+Rawalpindi"
+                href="https://maps.google.com/?q=Mehboob+Plaza+First+Floor+Adjacent+to+Meezan-Bank+Chakri+Road+Rawalpindi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 mt-2 px-5 py-2.5 bg-accent text-accent-foreground rounded-xl font-medium hover:opacity-90 transition-opacity"
@@ -174,3 +174,4 @@ export function Footer() {
     </footer>
   );
 }
+
