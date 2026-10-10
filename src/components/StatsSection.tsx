@@ -3,7 +3,7 @@ import { motion, useInView } from "framer-motion";
 import { Users, FolderCheck, CalendarDays, MapPin } from "lucide-react";
 
 const stats = [
-  { icon: FolderCheck, value: 500, suffix: "+", label: "Projects Completed" },
+  { icon: FolderCheck, value: 50, suffix: "+", label: "Projects Completed" },
   { icon: Users, value: 150, suffix: "+", label: "Happy Clients" },
   { icon: CalendarDays, value: 6, suffix: "+", label: "Years Experience" },
   { icon: MapPin, value: 25, suffix: "+", label: "Cities Covered" },
